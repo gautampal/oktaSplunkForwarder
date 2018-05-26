@@ -1,0 +1,11 @@
+{
+  "name": "splunkFwd",
+  "version": "1.0.0",
+  "scripts": {
+    "resourceOwnerFlow": "node index.js"
+  },
+  "dependencies": {
+    "splunk-logging": "0.9.3",
+    "request": "^2.87.0"
+  }
+}
